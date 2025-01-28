@@ -14,7 +14,7 @@ Make sure you have the following installed before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/deepakpyt/test-api-rust.git
+   git clone https://github.com/NashTech-Labs/rust-api-with-actix-diesel.git
    ```
 2. Navigate to the project directory:
 
