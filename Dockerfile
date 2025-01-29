@@ -1,4 +1,3 @@
-# Dockerfile
 FROM rust:1.78 as builder
 
 # Install required dependencies for diesel_cli and PostgreSQL

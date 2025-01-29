@@ -1,5 +1,4 @@
 #!/bin/sh
-# entrypoint.sh
 
 set -e
 
